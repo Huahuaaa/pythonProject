@@ -1,3 +1,4 @@
+
 def a(a, b):
     for i in range(a):
         for j in range(b):
@@ -6,3 +7,6 @@ def a(a, b):
             else:
                 print('-', end='')
         print()
+
+
+a(3, 9)
