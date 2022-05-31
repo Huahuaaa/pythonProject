@@ -6,6 +6,3 @@ def a(a, b):
             else:
                 print('-', end='')
         print()
-
-
-a(6, 6)

@@ -1,3 +1,3 @@
 def a():
-    print('hello,world!');
+    print('shit!');
 a();
